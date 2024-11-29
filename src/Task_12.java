@@ -11,6 +11,5 @@ public class Task_12 {
             }
         }
         System.out.println(sum);
-        System.out.println(sum);
     }
 }
