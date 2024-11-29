@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="134c7c9d-4ade-46fc-8056-c3cbbcca7b53" name="Changes" comment="Task 10">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicsofTheJavaLanguageOksanaEskova.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Kichekov"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Kichekov/Basics-of-the-Java-language-Oksana-Eskova-.git",
+    "accountId": "17273205-5ada-4ba4-ba0b-a1f932acda6f"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2pXT7H6qpKHsKYwcHBhMXlo5hIT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Tasc_2.executor": "Run",
+    "Application.Task_1.executor": "Run",
+    "Application.Task_10.executor": "Run",
+    "Application.Task_11.executor": "Run",
+    "Application.Task_12.executor": "Run",
+    "Application.Task_3.executor": "Run",
+    "Application.Task_4.executor": "Run",
+    "Application.Task_5.executor": "Run",
+    "Application.Task_6.executor": "Run",
+    "Application.Task_7.executor": "Run",
+    "Application.Task_9.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "/home/vlad/IdeaProjects/BasicsofTheJavaLanguageOksanaEskova/src/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="134c7c9d-4ade-46fc-8056-c3cbbcca7b53" name="Changes" comment="" />
+      <created>1732911254184</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732911254184</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Task">
+      <option name="closed" value="true" />
+      <created>1732912264166</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732912264167</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Task">
+      <option name="closed" value="true" />
+      <created>1732913027464</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732913027464</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Task">
+      <option name="closed" value="true" />
+      <created>1732913170796</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1732913170796</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Task">
+      <option name="closed" value="true" />
+      <created>1732913341297</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732913341297</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Task">
+      <option name="closed" value="true" />
+      <created>1732914337985</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1732914337985</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Task 1">
+      <option name="closed" value="true" />
+      <created>1732914555880</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1732914555880</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Task 8">
+      <option name="closed" value="true" />
+      <created>1732914822056</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1732914822056</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Task 9">
+      <option name="closed" value="true" />
+      <created>1732914961672</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1732914961672</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Task 10">
+      <option name="closed" value="true" />
+      <created>1732915151000</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1732915151000</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Task 10">
+      <option name="closed" value="true" />
+      <created>1732915289746</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1732915289746</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Task 10">
+      <option name="closed" value="true" />
+      <created>1732916981438</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1732916981438</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Task" />
+    <MESSAGE value="Task 1" />
+    <MESSAGE value="Task 8" />
+    <MESSAGE value="Task 9" />
+    <MESSAGE value="Task 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 10" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
