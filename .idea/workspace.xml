@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="134c7c9d-4ade-46fc-8056-c3cbbcca7b53" name="Changes" comment="Task 10">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_13.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,21 +22,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Kichekov"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Kichekov&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Kichekov/Basics-of-the-Java-language-Oksana-Eskova-.git",
-    "accountId": "17273205-5ada-4ba4-ba0b-a1f932acda6f"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Kichekov/Basics-of-the-Java-language-Oksana-Eskova-.git&quot;,
+    &quot;accountId&quot;: &quot;17273205-5ada-4ba4-ba0b-a1f932acda6f&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2pXT7H6qpKHsKYwcHBhMXlo5hIT" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -52,6 +52,7 @@
     "Application.Task_10.executor": "Run",
     "Application.Task_11.executor": "Run",
     "Application.Task_12.executor": "Run",
+    "Application.Task_13.executor": "Run",
     "Application.Task_3.executor": "Run",
     "Application.Task_4.executor": "Run",
     "Application.Task_5.executor": "Run",
