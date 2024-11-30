@@ -22,13 +22,21 @@ public class Task_18 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int height = scan.nextByte();
-        for (int i = 0; i < height; i++) {
-            for (int j = 0; j < i; j++) {
-
-            }
-
+        if (height <= 0) {
+            System.out.print("ERROR");
+            return;
         }
-
-
+        int prob = 0;
+        for (int i = 0; i < height; i++) {
+            for (int k = 0; k < prob; k++) {
+                System.out.print(' ');
+            }
+            for (int j = i + 1; j <= height; j++) {
+                System.out.print("*");
+            }
+            System.out.println();
+            prob++;
+        }
     }
 }
+
