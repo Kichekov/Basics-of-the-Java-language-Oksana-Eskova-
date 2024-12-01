@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="134c7c9d-4ade-46fc-8056-c3cbbcca7b53" name="Changes" comment="Task 18">
+    <list default="true" id="134c7c9d-4ade-46fc-8056-c3cbbcca7b53" name="Changes" comment="Task 19">
+      <change afterPath="$PROJECT_DIR$/src/Task_20.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +59,8 @@
     "Application.Task_16.executor": "Debug",
     "Application.Task_17.executor": "Run",
     "Application.Task_18.executor": "Run",
+    "Application.Task_19.executor": "Run",
+    "Application.Task_20.executor": "Run",
     "Application.Task_3.executor": "Run",
     "Application.Task_4.executor": "Run",
     "Application.Task_5.executor": "Run",
@@ -231,7 +234,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733010223473</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Task 19">
+      <option name="closed" value="true" />
+      <created>1733082086558</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1733082086558</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -257,7 +268,8 @@
     <MESSAGE value="Task 16" />
     <MESSAGE value="Task 17" />
     <MESSAGE value="Task 18" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 18" />
+    <MESSAGE value="Task 19" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 19" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
