@@ -23,7 +23,7 @@ public class Task_20 {
         Scanner scan = new Scanner(System.in);
         int num = scan.nextInt();
         for (int i = 1; i <= num; i++) {
-            System.out.print(i + "\t");
+
             for (int j = 1; j <= num; j++) {
                 System.out.print(i * j  + "\t");
             }
