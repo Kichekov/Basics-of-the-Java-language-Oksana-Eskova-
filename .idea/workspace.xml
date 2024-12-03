@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="134c7c9d-4ade-46fc-8056-c3cbbcca7b53" name="Changes" comment="Task 20">
+    <list default="true" id="134c7c9d-4ade-46fc-8056-c3cbbcca7b53" name="Changes" comment="Task 23">
+      <change afterPath="$PROJECT_DIR$/src/Task_24.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_21.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -48,6 +50,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Del.executor": "Run",
     "Application.Tasc_2.executor": "Run",
     "Application.Task_1.executor": "Run",
     "Application.Task_10.executor": "Run",
@@ -61,6 +64,10 @@
     "Application.Task_18.executor": "Run",
     "Application.Task_19.executor": "Run",
     "Application.Task_20.executor": "Run",
+    "Application.Task_21.executor": "Run",
+    "Application.Task_22.executor": "Run",
+    "Application.Task_23.executor": "Run",
+    "Application.Task_24.executor": "Run",
     "Application.Task_3.executor": "Run",
     "Application.Task_4.executor": "Run",
     "Application.Task_5.executor": "Run",
@@ -250,7 +257,39 @@
       <option name="project" value="LOCAL" />
       <updated>1733084264434</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Task 20">
+      <option name="closed" value="true" />
+      <created>1733084626075</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1733084626075</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Task 21">
+      <option name="closed" value="true" />
+      <created>1733167621094</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1733167621094</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Task 22">
+      <option name="closed" value="true" />
+      <created>1733170312257</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1733170312257</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Task 23">
+      <option name="closed" value="true" />
+      <created>1733173573990</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1733173573990</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -278,7 +317,10 @@
     <MESSAGE value="Task 18" />
     <MESSAGE value="Task 19" />
     <MESSAGE value="Task 20" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 20" />
+    <MESSAGE value="Task 21" />
+    <MESSAGE value="Task 22" />
+    <MESSAGE value="Task 23" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 23" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

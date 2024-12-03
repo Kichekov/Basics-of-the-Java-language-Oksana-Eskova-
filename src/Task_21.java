@@ -2,18 +2,12 @@ import java.util.Scanner;
 
 public class Task_21 {
     public static void main(String[] args) {
-        Scanner scan=new Scanner(System.in);
-        int a= scan.nextInt();
-        int b = scan.nextInt();
-        int min = Math.min(a,b);
-        int max = Math.max(a,b);
-
-
-        for (int i=min; i<=max; i++){
-            if (Math.abs(i/10+i%10)>Math.abs(min/10+min%10)){
-                min=i;
+        int i;
+         for (i = 0; i < 5; i++) {
+            for (int j = 0; j < 5; j++) {
+                if (i == j) break ;
+                System.out.printf("i=%d j=%d \n", i, j);
             }
         }
-        System.out.println(min);
     }
 }
