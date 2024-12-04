@@ -34,7 +34,6 @@ public class Task_27 {
             if (number % i == 0) {
                 counter++;
             }
-
         }
         if (counter == 2) {
             return true;

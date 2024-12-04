@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="134c7c9d-4ade-46fc-8056-c3cbbcca7b53" name="Changes" comment="Task 23">
-      <change afterPath="$PROJECT_DIR$/src/Task_24.java" afterDir="false" />
+    <list default="true" id="134c7c9d-4ade-46fc-8056-c3cbbcca7b53" name="Changes" comment="Task 28">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_27.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +36,9 @@
     &quot;accountId&quot;: &quot;17273205-5ada-4ba4-ba0b-a1f932acda6f&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Task_28.java" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -68,6 +70,10 @@
     "Application.Task_22.executor": "Run",
     "Application.Task_23.executor": "Run",
     "Application.Task_24.executor": "Run",
+    "Application.Task_25.executor": "Run",
+    "Application.Task_26.executor": "Run",
+    "Application.Task_27.executor": "Run",
+    "Application.Task_28.executor": "Run",
     "Application.Task_3.executor": "Run",
     "Application.Task_4.executor": "Run",
     "Application.Task_5.executor": "Run",
@@ -289,7 +295,39 @@
       <option name="project" value="LOCAL" />
       <updated>1733173573990</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Task 23">
+      <option name="closed" value="true" />
+      <created>1733257503994</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1733257503994</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Task 26">
+      <option name="closed" value="true" />
+      <created>1733259127653</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1733259127653</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Task 27">
+      <option name="closed" value="true" />
+      <created>1733340526394</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1733340526395</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Task 28">
+      <option name="closed" value="true" />
+      <created>1733346561488</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1733346561488</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -320,7 +358,10 @@
     <MESSAGE value="Task 21" />
     <MESSAGE value="Task 22" />
     <MESSAGE value="Task 23" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 23" />
+    <MESSAGE value="Task 26" />
+    <MESSAGE value="Task 27" />
+    <MESSAGE value="Task 28" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 28" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
