@@ -24,7 +24,7 @@ Sample Output 2:
 
 import java.util.Scanner;
 
-public class Tasc_2 {
+public class Task_2 {
     public static void main(String[] args) {
         Scanner scan=new Scanner(System.in);
         int number=scan.nextInt();
