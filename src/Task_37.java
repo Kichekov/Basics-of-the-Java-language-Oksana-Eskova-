@@ -31,7 +31,6 @@ public class Task_37 {
             a[i] = rand.nextInt(-5, 16);
         }
         int max = a[0];
-        int min = a[0];
         int imin = -1;
         int imax = 0;
         for (int i = 0; i < a.length; i++) {
@@ -40,7 +39,6 @@ public class Task_37 {
                 imax = i;
             }
             if (a[i] < 0) {
-                min = a[i];
                 imin = i;
             }
 
