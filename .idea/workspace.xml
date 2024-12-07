@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="134c7c9d-4ade-46fc-8056-c3cbbcca7b53" name="Changes" comment="Task 31">
+    <list default="true" id="134c7c9d-4ade-46fc-8056-c3cbbcca7b53" name="Changes" comment="Task 37">
+      <change afterPath="$PROJECT_DIR$/src/ImportMassiv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_38.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +57,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Del.executor": "Run",
+    "Application.ImportMassiv.executor": "Run",
     "Application.Tasc_2.executor": "Run",
     "Application.Task_1.executor": "Run",
     "Application.Task_10.executor": "Run",
@@ -80,11 +83,19 @@
     "Application.Task_3.executor": "Run",
     "Application.Task_30.executor": "Run",
     "Application.Task_31.executor": "Run",
+    "Application.Task_32.executor": "Run",
+    "Application.Task_33.executor": "Run",
+    "Application.Task_34.executor": "Run",
+    "Application.Task_35.executor": "Run",
+    "Application.Task_36.executor": "Run",
+    "Application.Task_37.executor": "Run",
+    "Application.Task_38.executor": "Run",
     "Application.Task_4.executor": "Run",
     "Application.Task_5.executor": "Run",
     "Application.Task_6.executor": "Run",
     "Application.Task_7.executor": "Run",
     "Application.Task_9.executor": "Run",
+    "Application.del.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
@@ -364,7 +375,55 @@
       <option name="project" value="LOCAL" />
       <updated>1733428975003</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Task 32">
+      <option name="closed" value="true" />
+      <created>1733504288885</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1733504288886</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Task 33">
+      <option name="closed" value="true" />
+      <created>1733507440803</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1733507440803</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Task 34">
+      <option name="closed" value="true" />
+      <created>1733513464350</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1733513464350</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Task 35">
+      <option name="closed" value="true" />
+      <created>1733516132412</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1733516132412</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Task 36">
+      <option name="closed" value="true" />
+      <created>1733594319141</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1733594319141</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Task 37">
+      <option name="closed" value="true" />
+      <created>1733597214447</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1733597214447</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -379,9 +438,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Task" />
-    <MESSAGE value="Task 1" />
-    <MESSAGE value="Task 8" />
     <MESSAGE value="Task 9" />
     <MESSAGE value="Task 10" />
     <MESSAGE value="Task 13" />
@@ -401,7 +457,13 @@
     <MESSAGE value="Task 29" />
     <MESSAGE value="Task 30" />
     <MESSAGE value="Task 31" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 31" />
+    <MESSAGE value="Task 32" />
+    <MESSAGE value="Task 33" />
+    <MESSAGE value="Task 34" />
+    <MESSAGE value="Task 35" />
+    <MESSAGE value="Task 36" />
+    <MESSAGE value="Task 37" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 37" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -410,6 +472,11 @@
           <url>file://$PROJECT_DIR$/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Task_34.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Task_28.java</url>
