@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="134c7c9d-4ade-46fc-8056-c3cbbcca7b53" name="Changes" comment="Task 37">
-      <change afterPath="$PROJECT_DIR$/src/ImportMassiv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_38.java" afterDir="false" />
+    <list default="true" id="134c7c9d-4ade-46fc-8056-c3cbbcca7b53" name="Changes" comment="Task 40">
+      <change afterPath="$PROJECT_DIR$/src/Task_41.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +89,10 @@
     "Application.Task_36.executor": "Run",
     "Application.Task_37.executor": "Run",
     "Application.Task_38.executor": "Run",
+    "Application.Task_39.executor": "Debug",
     "Application.Task_4.executor": "Run",
+    "Application.Task_40.executor": "Run",
+    "Application.Task_41.executor": "Run",
     "Application.Task_5.executor": "Run",
     "Application.Task_6.executor": "Run",
     "Application.Task_7.executor": "Run",
@@ -423,7 +425,39 @@
       <option name="project" value="LOCAL" />
       <updated>1733597214447</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Task 38">
+      <option name="closed" value="true" />
+      <created>1733605974082</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1733605974082</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Task 39">
+      <option name="closed" value="true" />
+      <created>1733606963552</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1733606963552</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Task 39">
+      <option name="closed" value="true" />
+      <created>1733608372864</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1733608372864</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Task 40">
+      <option name="closed" value="true" />
+      <created>1733609907851</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1733609907851</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -438,9 +472,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Task 9" />
-    <MESSAGE value="Task 10" />
-    <MESSAGE value="Task 13" />
     <MESSAGE value="Task 14" />
     <MESSAGE value="Debug" />
     <MESSAGE value="Task 16" />
@@ -463,7 +494,10 @@
     <MESSAGE value="Task 35" />
     <MESSAGE value="Task 36" />
     <MESSAGE value="Task 37" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 37" />
+    <MESSAGE value="Task 38" />
+    <MESSAGE value="Task 39" />
+    <MESSAGE value="Task 40" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 40" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -477,6 +511,11 @@
           <url>file://$PROJECT_DIR$/src/Task_34.java</url>
           <line>33</line>
           <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Task_41.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Task_28.java</url>
