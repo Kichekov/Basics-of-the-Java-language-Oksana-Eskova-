@@ -33,20 +33,23 @@ public class Task_43 {
         Random rand = new Random(start);
         int[][] arr = new int[lines][table];
         //4 строки 5 столбцов
-        for (int i = 0; i < arr.length; i++){
-            for (int j = 0; j< arr[i].length; j++){
-                arr[i][j] = rand.nextInt(-10,11);
+        for (int i = 0; i < arr.length; i++) {
+            for (int j = 0; j < arr[i].length; j++) {
+                arr[i][j] = rand.nextInt(-10, 11);
                 System.out.print(arr[i][j] + "\t");
             }
             System.out.println();
         }
-        for (int i = 0; i < 4; i++){
+        for (int i = 0; i < 5; i++) {
             int sum = 0;
-            for (int j = 0; j < 4; j++){
-                sum+=arr[j][i];
-                System.out.println(arr[j][i] + "\t");
+            for (int j = 0; j < 4; j++) {
+                // System.out.println(arr[j][i] + "\t");
+                if (arr[j][i] > 0) {
+                    sum += arr[j][i];
+                }
             }
-            System.out.println();
+            System.out.print(sum + " ");
+
         }
     }
 }

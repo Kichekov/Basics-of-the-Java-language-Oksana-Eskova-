@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="134c7c9d-4ade-46fc-8056-c3cbbcca7b53" name="Changes" comment="Task 41">
-      <change afterPath="$PROJECT_DIR$/src/Task_42.java" afterDir="false" />
+    <list default="true" id="134c7c9d-4ade-46fc-8056-c3cbbcca7b53" name="Changes" comment="Task 42">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_43.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_43.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,6 +94,8 @@
     "Application.Task_40.executor": "Run",
     "Application.Task_41.executor": "Run",
     "Application.Task_42.executor": "Run",
+    "Application.Task_43.executor": "Run",
+    "Application.Task_44.executor": "Run",
     "Application.Task_5.executor": "Run",
     "Application.Task_6.executor": "Run",
     "Application.Task_7.executor": "Run",
@@ -474,7 +476,31 @@
       <option name="project" value="LOCAL" />
       <updated>1733685496179</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Task 42">
+      <option name="closed" value="true" />
+      <created>1733690266693</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1733690266693</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Task 42">
+      <option name="closed" value="true" />
+      <created>1733690354994</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1733690354994</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Task 42">
+      <option name="closed" value="true" />
+      <created>1733776794371</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1733776794371</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -489,7 +515,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Debug" />
     <MESSAGE value="Task 16" />
     <MESSAGE value="Task 17" />
     <MESSAGE value="Task 18" />
@@ -514,7 +539,8 @@
     <MESSAGE value="Task 39" />
     <MESSAGE value="Task 40" />
     <MESSAGE value="Task 41" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 41" />
+    <MESSAGE value="Task 42" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 42" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
