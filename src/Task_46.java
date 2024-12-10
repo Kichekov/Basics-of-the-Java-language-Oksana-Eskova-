@@ -59,7 +59,6 @@ public class Task_46 {
             }
             System.out.println();
         }
-
     }
 
     public static void printMaxIndex(int[][] mas) {
@@ -70,13 +69,8 @@ public class Task_46 {
                 if (mas[i][j] > mas[i][imax]) {
                     imax = j;
                 }
-
             }
             System.out.print(imax + " ");
-
         }
-
     }
-
-
 }
