@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="134c7c9d-4ade-46fc-8056-c3cbbcca7b53" name="Changes" comment="Task 42">
+      <change afterPath="$PROJECT_DIR$/src/Task_45.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Task_43.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_43.java" afterDir="false" />
     </list>
@@ -96,6 +97,7 @@
     "Application.Task_42.executor": "Run",
     "Application.Task_43.executor": "Run",
     "Application.Task_44.executor": "Run",
+    "Application.Task_45.executor": "Run",
     "Application.Task_5.executor": "Run",
     "Application.Task_6.executor": "Run",
     "Application.Task_7.executor": "Run",
@@ -500,7 +502,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733776794371</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Task 42">
+      <option name="closed" value="true" />
+      <created>1733777390290</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1733777390290</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -582,6 +592,10 @@
           </properties>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="22" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>

@@ -40,9 +40,9 @@ public class Task_43 {
             }
             System.out.println();
         }
-        for (int i = 0; i < 5; i++) {
+        for (int i = 0; i < table; i++) {
             int sum = 0;
-            for (int j = 0; j < 4; j++) {
+            for (int j = 0; j < lines; j++) {
                 // System.out.println(arr[j][i] + "\t");
                 if (arr[j][i] > 0) {
                     sum += arr[j][i];
