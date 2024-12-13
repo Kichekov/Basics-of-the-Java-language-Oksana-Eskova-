@@ -10,7 +10,6 @@ public class Task_51 {
             int findLast = str.lastIndexOf(';');
             String element = str.substring(findFirst, findLast);
             phrase += element;
-
         }
         System.out.println(phrase);
     }
