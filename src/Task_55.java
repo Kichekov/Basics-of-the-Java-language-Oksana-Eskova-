@@ -16,21 +16,18 @@ A dog deserves a bone or goodness
 
  */
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Task_55 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         String srt = scan.nextLine();
-        String controlWord=scan.next();
+        String controlWord = scan.next();
         srt = srt.trim();
         String[] words = srt.split(" +");
-        for (int i = 0; i < words.length; i++){
-            if (words[i].equals(controlWord)){
-                continue;
-            }
-            System.out.print(words[i]+" ");
+        for (int i = 0; i < words.length; i++) {
+            if (words[i].equals(controlWord)) continue;
+            System.out.print(words[i] + " ");
         }
 
 
