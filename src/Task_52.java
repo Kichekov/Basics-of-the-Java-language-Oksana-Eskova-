@@ -25,7 +25,6 @@ public class Task_52 {
             System.out.println("NO");
         }
     }
-
     private static boolean isGMailAddress(String str) {
        boolean result = true;
         if (str.indexOf('@')==0) return false;
