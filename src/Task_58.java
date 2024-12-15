@@ -24,13 +24,13 @@ public class Task_58 {
         str = str.trim();
         String[] arr = str.split(" +");
         StringBuilder sb = new StringBuilder();
-        sb.append(arr[0] + " ");
+        sb.append(arr[0]).append(" ");
         for (int i = 0; i< arr.length-1; i++){
             String x = arr[i].substring(arr[i].length() - 1);
             for (int j = 1; j < arr.length; j++) {
                 String y = arr[j].substring(0,1);
                 if (x.equals(y)){
-                    sb.append(arr[j]+" ");
+                    sb.append(arr[j]).append(" ");
                     String tmp = arr[i+1];
                     arr[i+1] = arr[j];
                     arr[j] = tmp;
