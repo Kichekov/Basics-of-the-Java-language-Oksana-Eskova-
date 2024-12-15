@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="134c7c9d-4ade-46fc-8056-c3cbbcca7b53" name="Changes" comment="Task 58">
-      <change afterPath="$PROJECT_DIR$/src/Task_59.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_60.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_58.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_58.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,6 +114,7 @@
     "Application.Task_58.executor": "Run",
     "Application.Task_59.executor": "Run",
     "Application.Task_6.executor": "Run",
+    "Application.Task_60.executor": "Run",
     "Application.Task_7.executor": "Run",
     "Application.Task_9.executor": "Run",
     "Application.del.executor": "Run",
@@ -136,22 +136,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1732911254184</updated>
-    </task>
-    <task id="LOCAL-00024" summary="Task 22">
-      <option name="closed" value="true" />
-      <created>1733170312257</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1733170312257</updated>
-    </task>
-    <task id="LOCAL-00025" summary="Task 23">
-      <option name="closed" value="true" />
-      <created>1733173573990</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1733173573990</updated>
     </task>
     <task id="LOCAL-00026" summary="Task 23">
       <option name="closed" value="true" />
@@ -529,7 +513,23 @@
       <option name="project" value="LOCAL" />
       <updated>1734261133207</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="Task 58">
+      <option name="closed" value="true" />
+      <created>1734285710945</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1734285710945</updated>
+    </task>
+    <task id="LOCAL-00074" summary="Task 58">
+      <option name="closed" value="true" />
+      <created>1734285752699</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1734285752699</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -544,7 +544,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Task 32" />
     <MESSAGE value="Task 33" />
     <MESSAGE value="Task 34" />
     <MESSAGE value="Task 35" />
@@ -568,6 +567,7 @@
     <MESSAGE value="Task 55" />
     <MESSAGE value="Task 56" />
     <MESSAGE value="Task 57" />
+    <MESSAGE value="Task 59" />
     <MESSAGE value="Task 58" />
     <option name="LAST_COMMIT_MESSAGE" value="Task 58" />
   </component>
@@ -598,6 +598,16 @@
           <url>file://$PROJECT_DIR$/src/Task_58.java</url>
           <line>27</line>
           <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Task_60.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Task_60.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Task_28.java</url>
